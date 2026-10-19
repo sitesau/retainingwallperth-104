@@ -1,0 +1,22 @@
+{
+  "wheel_id": 470,
+  "structure": "umbrella",
+  "slug": "retainingwallperth-104",
+  "project": "retaining-wall-contractors-perth-suburb-guide-6d338e15286a7e88f",
+  "parent_t1_ref": "retainingwallperth-151",
+  "node_role": "feeder",
+  "money_target": "retainingwallperth.au",
+  "primary_kw": "retaining wall contractors perth suburb guide",
+  "intended_url": "https://sitesau.github.io/retainingwallperth-104/",
+  "tier": "T2",
+  "writeback_nonce": "7e8c67b496493f3a",
+  "links": [
+    {
+      "target_url": "http://retaining-wall-contractors-perth-c0d67e8e650336f1beb4d20358144b.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "Retaining Wall Contractors Perth: A Practical WA Wall Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
